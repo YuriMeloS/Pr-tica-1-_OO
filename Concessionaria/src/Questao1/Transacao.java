@@ -6,5 +6,4 @@ public class Transacao {
 	private byte TipoTransacao;
 	private double ValorTrasacao;
 	private byte formaPag;
-
 }

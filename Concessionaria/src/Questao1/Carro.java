@@ -9,5 +9,4 @@ public class Carro {
 	private String Cor;
 	private String codFip;
 	private double precVenda;
-
 }
