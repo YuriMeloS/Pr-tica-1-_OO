@@ -33,7 +33,9 @@ public class NotasAlunos {
 	} 
 	public void avaliarAluno(double notaAV1, double notaAV2) {
 		if(notaAV1+notaAV2>60) {
-			System.out.println();
+			System.out.println("Aprovado");
+		}else {
+			System.out.println("Reprovado");
 		}
 		
 	}
